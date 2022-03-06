@@ -1,0 +1,15 @@
+
+.box{
+	min-height: 100px;
+	margin-bottom: 10px;
+	border: 1px solid;
+	background-color: teal;
+}
+.mh{
+	min-height: 300px;
+}
+
+.alert_custom{
+	background-color: green;
+	color: white;
+}
